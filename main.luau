@@ -57,7 +57,7 @@ if LocalPLR.Name ~= Username then
     chat("ControlBotZ Running!")
     game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = "Thank You",
-        Text = "Thank you for using ControlBotZ!",
+        Text = " ",
         Time = 6
     })
 
